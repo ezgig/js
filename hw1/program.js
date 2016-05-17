@@ -3,7 +3,7 @@ var func = function()
     var result = "";
 	for( var i = 1; i <= 8; i++) 
 	{ 
-		for(j = 1; j <= 8; j++) 
+		for(j = 1; j <= 8; j++)  
 		{ 
 			if((i+j)%2 == 1 ) 
 			{ 
