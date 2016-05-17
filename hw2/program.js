@@ -1,5 +1,5 @@
 var func = function() 
- { 
+ {  
 	var result = " ";
  	for (i = 1; i<=7; i++) 
 	{ 
